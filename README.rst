@@ -1,7 +1,21 @@
+|Build Status| |Code Coverage| |Code Health|
+
 MyTemplateWebsite
 ==============================
 
 A simple Django website
+
+.. |Build Status| image:: https://travis-ci.org/zooming-tan/MyTemplateWebsite.svg
+   :target: https://travis-ci.org/zooming-tan/MyTemplateWebsite
+   :alt: Build Status
+
+.. |Code Coverage| image:: https://codecov.io/github/zooming-tan/MyTemplateWebsite/coverage.svg?branch=master
+   :target: https://codecov.io/github/zooming-tan/MyTemplateWebsite?branch=master
+   :alt: Code Coverage
+
+.. |Code Health| image:: https://codeclimate.com/github/zooming-tan/MyTemplateWebsite/badges/gpa.svg
+   :target: https://codeclimate.com/github/zooming-tan/MyTemplateWebsite
+   :alt: Code Climate
 
 
 LICENSE: BSD
